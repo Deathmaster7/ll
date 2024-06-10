@@ -11,7 +11,7 @@ st.markdown("""
     </style>""", unsafe_allow_html=True)
 
 
-original_title = '<p style="font-family:Ariel; color:#D90166; font-size: 105px;">HAPPY &nbsp;&nbspBIRTHDAY &nbsp;&nbsp;&nbsp;&nbsp;&nbspBABY GIRL</p>'
+original_title = '<p style="font-family:Ariel; color:#D90166; font-size: 55px;">HAPPY &nbsp;&nbspBIRTHDAY &nbsp;&nbsp;&nbsp;&nbsp;&nbspBABY GIRL</p>'
 st.markdown(original_title, unsafe_allow_html=True)
 
 st.markdown("", unsafe_allow_html=True)
