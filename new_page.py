@@ -22,7 +22,7 @@ st.markdown('<p class="big-font">adventures, and celebrations together.</p>', un
 st.markdown('<p class="big-font">I love you more than words can express. Happy Birthday, my love!</p>', unsafe_allow_html=True)
 st.markdown('<p class="big-font">With all my heart,</p>', unsafe_allow_html=True)
 st.markdown('<p class="big-font">Aryaman</p>', unsafe_allow_html=True)
-url='google.com'
+url='https://mineee.streamlit.app/'
 # Custom CSS to inject
 st.markdown("""
 <style>
