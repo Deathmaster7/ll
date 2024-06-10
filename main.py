@@ -25,10 +25,10 @@ st.markdown("""
 <style>
 button{
     height: 75px; /* Adjust the height as needed */
-    font-size:24px;
+    font-size:20px;
     width:159px;
     border-radius: 25px; /* Optional: for rounded buttons */
-    padding: 17px 40px 25px 40px;
+    padding: 7px 20px 15px 20px;
     
 
 }
