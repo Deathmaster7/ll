@@ -24,7 +24,7 @@ st.markdown("", unsafe_allow_html=True)
 st.markdown("""
 <style>
 button{
-    height: 75px; /* Adjust the height as needed */
+    height: 80px; /* Adjust the height as needed */
     font-size:24px;
     width:159px;
     border-radius: 25px; /* Optional: for rounded buttons */
